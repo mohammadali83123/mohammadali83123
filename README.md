@@ -24,7 +24,7 @@ I care about:
 
 ### 🏢 Bazaar Technologies — *Software Engineer II*
 
-**~May 2025 | Present**
+**May 2025 | Present**
 
 * Building and maintaining **production-grade backend services** used at scale
 * Designing and implementing **RESTful APIs** with real business constraints

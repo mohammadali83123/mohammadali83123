@@ -7,6 +7,7 @@ Backend • Automation • AI/LLMs • Scalable Systems
 🔗 **Portfolio:** [https://mohammadalis.vercel.app](https://mohammadalis.vercel.app)
 
 💼 **LinkedIn:** [https://www.linkedin.com/in/mohammadali83123](https://www.linkedin.com/in/mohammadali83123)
+
 📧 **Email:** [mohammadali83123@gmail.com](mailto:mohammadali83123@gmail.com)
 
 ---
